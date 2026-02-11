@@ -1,4 +1,4 @@
-### Hi there! ![Blob waving](https://github.com/your-username/path-to-your-image/blob/your-image.png)
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'm passionate about medicine, exercise physiology, sports performance, and the intersection of technology and health.
 
