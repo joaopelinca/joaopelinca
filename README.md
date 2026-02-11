@@ -2,7 +2,7 @@
 
 I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'm passionate about medicine, exercise physiology, sports performance, and the intersection of technology and health.
 
-#### Things I’m studying right now:
+#### What I’m studying right now:
 
 - Sensorimotor neuroscience
 - Adapted physical activity
@@ -13,12 +13,6 @@ I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'
 - Python
 - LaTeX
 - MATLAB
-
-#### Projects & Interests:
-
-- **Sports Performance**: I explore how technology can improve athletic performance through exercise science and physiological principles.
-- **Health & Medicine**: My passion for health leads me to study how technology and biomedical science intersect to improve patient care and outcomes.
-- **Personal Website**: I'm working on building my personal website to showcase my academic and professional journey. 
 
 ---
 
