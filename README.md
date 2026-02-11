@@ -8,6 +8,8 @@ I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'
 - Adapted physical activity
 - Working on my personal website
 
+---
+
 #### Tools I’m learning:
 
 - Python
