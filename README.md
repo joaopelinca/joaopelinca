@@ -20,6 +20,6 @@ I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'
 
 #### Fun Facts:
 
-- I’m originally from Brazil, fluent in both English and Portuguese, and currently studying Spanish.
-- I’m very picky about my ratio when brewing coffee.
-- My hobbies include playing video games, going to the gym, and spending quality time with friends and family.
+- I’m originally from Brazil and moved to Canada in 2018 when I was 14 years old!
+- I'm fluent in both English and Portuguese, and currently studying Spanish.
+- Favorite things to do on my free time are spend quality time with friends and family, play video games, and play tennis.
