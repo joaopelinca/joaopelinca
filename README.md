@@ -2,21 +2,20 @@
 
 I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'm passionate about medicine, exercise physiology, sports performance, and the intersection of technology and health.
 
-#### Cool stuff I’m studying right now:
+#### Projects & Interests:
 
+- Building my personal website with Jekyll
 - Sensorimotor neuroscience
 - Adapted physical activity
-- Working on my personal website
 
 ---
 
 #### Tools I’m learning:
 
-- Python
-- HTML & CSS
-- Markdown
+- Python (NumPy, Matplotlib)
 - LaTeX
 - MATLAB
+- C/C++
 
 ---
 
