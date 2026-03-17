@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'm passionate about medicine, exercise physiology, sports performance, and the intersection of technology and health.
+I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'm passionate about medicine and human physiology, and increasingly drawn to where computation meets health science.
 
 #### Projects & Interests:
 
