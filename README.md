@@ -13,9 +13,7 @@ I'm Joao, a 4th-year BSc student in Kinesiology at the University of Calgary. I'
 #### Tools I’m learning:
 
 - Python (NumPy, Matplotlib, Panda)
-- LaTeX
 - MATLAB
-- C/C++
 
 ---
 
